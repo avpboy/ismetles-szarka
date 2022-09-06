@@ -9,3 +9,35 @@ a, h2 {
 
 }
 
+.kozep {
+    display: flex;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.tabla {
+    width: 400px;
+
+}
+
+.kep2{
+    width: 230px;
+    height: 153px;
+    border: 1px solid black;
+    float: right;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.tabla2 {
+    width: 500px;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+    
